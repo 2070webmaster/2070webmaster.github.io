@@ -1,0 +1,29 @@
+Citations:
+iplLogo = http://www.pngall.com/ipl-logo-png-transparent-images
+iplStadium = https://unsplash.com/photos/W5o5EFH_RQ4
+iplAuction = https://www.iplt20.com/photos/700
+auction2 = https://www.iplt20.com/photos/700
+auction3 = https://www.iplt20.com/photos/700
+iplAuctionLogo = https://www.deviantart.com/harshmore7781/art/TATA-IPL-Auction-2022-logo-png-907820763
+
+cskLogo = https://www.pinterest.com/pin/847802698576900620/
+csk = https://www.iplt20.com/photos/32242
+delhiLogo = https://vpnstore.com/watch-ipl-matches-live-streaming-for-free/
+delhi = https://www.iplt20.com/photos/32238
+gujaratLogo = https://en.wikipedia.org/wiki/Gujarat_Titans
+gujarat = https://www.dtnext.in/News/Sports/2022/02/19200955/1354461/Gujarat-Titans-to-become-first-Indian-sports-team-.vpf
+lsgLogo = https://www.thetechoutlook.com/internet/sports/ipl-2022-logo-of-lucknow-supergiants-ipl-team/
+lsg = https://maddzine.com/lucknows-ipl-team-ko-lucknow-super-giants-k-naam-se-bulaya-jayega/
+kkrLogo = https://www.espncricinfo.com/team/kolkata-knight-riders-335971
+kkr = https://www.iplt20.com/photos/32236
+miLogo = https://in.pinterest.com/pin/857161741559037482/
+mi = https://www.iplt20.com/photos/32237
+pbksLogo = https://logoeazy.com/punjab-kings-new-logo/
+pbks = https://www.iplt20.com/photos/23495
+rrLogo = https://kreditings.com/ipl-logo-png/
+rr = https://www.iplt20.com/photos/32236
+rcbLogo = https://wallpapercave.com/rcb-logo-wallpapers
+rcb = https://www.iplt20.com/photos/32238
+srhLogo = https://kreditings.com/ipl-logo-png/
+srh = https://www.iplt20.com/photos/32237
+footer = https://www.iplt20.com/
